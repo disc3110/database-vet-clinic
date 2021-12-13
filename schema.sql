@@ -61,3 +61,13 @@ ALTER TABLE animals ADD CONSTRAINT animals_fk_2 FOREIGN KEY (species_id) REFEREN
 
 -- Add an email column to your owners table
 ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
+
+-- Optimization for first query
+CREATE INDEX animal_id_asc ON visits(animal_id ASC);
+
+-- Optimization for second query
+CREATE INDEX vet_id_desc ON visits(vet_id DESC, date, animal_id);
+
+-- Optimization for third query
+CREATE INDEX owners_email_asc ON owners(email ASC);
