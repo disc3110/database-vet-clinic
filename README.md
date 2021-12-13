@@ -23,6 +23,9 @@ To get a local copy up and running follow these simple example steps.
 ### Usage
 - Run every `.sql` file in the following order: schema, data, queries
 
+## Database diagram
+![](./clinic_diagram.png)
+
 ## Authors
 
 👤 **Diego Ivan**
