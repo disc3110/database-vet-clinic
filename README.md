@@ -28,8 +28,8 @@ To get a local copy up and running follow these simple example steps.
 👤 **Diego Ivan**
 
 - GitHub: [@disc3110](https://github.com/disc3110)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@disc3110](https://twitter.com/disc3110)
+- LinkedIn: [Diego Solis](https://www.linkedin.com/in/diego-solis-cuevas/)
 
 👤 **Fabrizio Gomez**
 
